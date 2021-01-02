@@ -14,7 +14,7 @@
   -  EDA.ipynb
 
   
-### Modeling
+### ML
 - 상권 별 최종선정된 독립변수들을 이용하여 기계학습
   - gridsearch.ipynb
 
